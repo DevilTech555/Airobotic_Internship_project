@@ -1,0 +1,1 @@
+(venv) C:\Users\Naveen PM\Desktop\ML_Python>python "House_Price_prediction _app.py"
