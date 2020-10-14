@@ -11,3 +11,6 @@
 
 ### To run the app :
 #### (venv) C:\Users\Naveen PM\Desktop\ML_Python>python "House_Price_prediction _app.py"
+
+### App interface :
+![alt text](https://github.com/DevilTech555/Airobotic_Internship_project/blob/master/output/app-image-3.JPG)
